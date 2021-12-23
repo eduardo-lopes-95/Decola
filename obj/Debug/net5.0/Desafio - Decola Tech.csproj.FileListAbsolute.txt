@@ -1,0 +1,16 @@
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\Desafio - Decola Tech.exe
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\Desafio - Decola Tech.deps.json
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\Desafio - Decola Tech.runtimeconfig.json
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\Desafio - Decola Tech.runtimeconfig.dev.json
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\Desafio - Decola Tech.dll
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\ref\Desafio - Decola Tech.dll
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\bin\Debug\net5.0\Desafio - Decola Tech.pdb
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.csprojAssemblyReference.cache
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.AssemblyInfoInputs.cache
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.AssemblyInfo.cs
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.dll
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\ref\Desafio - Decola Tech.dll
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.pdb
+C:\Users\Eduardo.lopes\OneDrive - TENTI Tecnologia\Documentos\Dev\C#\Desafio - Decola Tech\obj\Debug\net5.0\Desafio - Decola Tech.genruntimeconfig.cache
